@@ -26,7 +26,7 @@ Formerly Microsoft Magnifier, Magnifier is a screen magnifier app intended for v
 
 ### Launching Magnifier
 
-Press and hold the Windows key which is between Control and Alt on the left side of the spacebar and then press Numpad Plus. This will bring up Magnifier at the lowest level of magnification.
+First press and hold the Windows key which is between Control and Alt on the left side of the spacebar. While holding the Windows key down, press and release the Numpad Plus key. This will bring up Magnifier at the lowest level of magnification.
 
 ### Exiting Magnifier
 
