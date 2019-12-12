@@ -17,7 +17,11 @@ You can also use the user interface to enable this setting with the following st
 
 4.  Press Enter or click OK.
 
-![](https://lh6.googleusercontent.com/rwVboHBPl8xuiqfFN3q5ljKpAwslskGHy6xCTOS26WgWtNcNSQBbAh9TUp2vxnb4FOI0F-VpnahfFfC1HWIl7AmlhHWqbTqO0Tm0lL74IFz7aPlHlGfzTONkdG0ChCjlC5AzZAhD)
+Magnifier settings button  
+![Magnifier settings button](https://github.com/alassist/lessons-magnification/blob/master/Using%20Windows%20Magnifier/images/winmagui-gear.png?raw=true)  
+
+Magnifier settings dialog  
+![Magnifier settings dialog](https://lh6.googleusercontent.com/rwVboHBPl8xuiqfFN3q5ljKpAwslskGHy6xCTOS26WgWtNcNSQBbAh9TUp2vxnb4FOI0F-VpnahfFfC1HWIl7AmlhHWqbTqO0Tm0lL74IFz7aPlHlGfzTONkdG0ChCjlC5AzZAhD)
 
 ### Mouse Enhancements
 
