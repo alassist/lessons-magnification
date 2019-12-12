@@ -11,29 +11,29 @@ You can also use the user interface to enable this setting with the following st
 
 1.  Bring the Magnifier user interface up by clicking on it in the taskbar if it is not already up.
 
-2.  Click on the gear icon.
-
-3.  Click the checkbox for Turn on color inversion.
-
-4.  Press Enter or click OK.
-
-Magnifier settings button  
+2.  Click on the gear icon.  
 ![Magnifier settings button](https://github.com/alassist/lessons-magnification/blob/master/Using%20Windows%20Magnifier/images/winmagui-gear.png?raw=true)  
 
-Magnifier settings dialog  
+3.  Click the checkbox that says Invert colors.  
 ![Magnifier settings dialog](https://github.com/alassist/lessons-magnification/blob/master/Using%20Windows%20Magnifier/images/Invert%20Color%20Option.png?raw=true)
 
+4.  You can close this dialog as your changes are saved as you make them.  
+
+### High Contrast
+If the inverted colors are not to your liking, there are other options. Starting in Windows version 1903, Microsoft has included improved high contrast options.
+
+Open the Start Menu and type "high contrast"  
+
+![high contrast dialog](https://github.com/alassist/lessons-magnification/blob/master/Using%20Windows%20Magnifier/images/HighContrastDialog.png?raw=true)
+
+In this dialog you will find a toggle to turn high contrast on and off as well as a drop down menu where you can choose four different themes. In addition to these options, you now have the ability to customize the colors used and create your own custom theme.
 
 ### Cursor and Pointer Enhancements
 
-If you have trouble finding the mouse cursor you have several options to increase its visibility built in to Windows. Starting in Windows 10 build 1903, you have enhanced cursor options.
-
-
-This setting must be changed using the Windows Control Panel.
+If you have trouble locating the mouse cursor on the screen you have several options to increase its visibility that are built in to Windows. Starting in Windows 10 version 1903, you have enhanced cursor options. You can customize your pointer and cursor by performing the following steps.
 
 1.  Open the Start Menu and type "pointer" (minus the quotes) and press Enter.
 
-Cursor & Pointer Dialog
 ![Cursor & Pointer Dialog](https://github.com/alassist/lessons-magnification/blob/master/Using%20Windows%20Magnifier/images/mouse-pointer.png?raw=true)
 
 2.  Use the slider to change the size of your pointer.
