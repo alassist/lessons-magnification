@@ -21,35 +21,28 @@ Magnifier settings button
 ![Magnifier settings button](https://github.com/alassist/lessons-magnification/blob/master/Using%20Windows%20Magnifier/images/winmagui-gear.png?raw=true)  
 
 Magnifier settings dialog  
-![Magnifier settings dialog](https://lh6.googleusercontent.com/rwVboHBPl8xuiqfFN3q5ljKpAwslskGHy6xCTOS26WgWtNcNSQBbAh9TUp2vxnb4FOI0F-VpnahfFfC1HWIl7AmlhHWqbTqO0Tm0lL74IFz7aPlHlGfzTONkdG0ChCjlC5AzZAhD)
+![Magnifier settings dialog](https://github.com/alassist/lessons-magnification/blob/master/Using%20Windows%20Magnifier/images/Invert%20Color%20Option.png?raw=true)
 
-### Mouse Enhancements
 
-If you have trouble finding the mouse cursor you have several options to increase its visibility depending on the program you are using.
+### Cursor and Pointer Enhancements
+
+If you have trouble finding the mouse cursor you have several options to increase its visibility built in to Windows. Starting in Windows 10 build 1903, you have enhanced cursor options.
 
 
 This setting must be changed using the Windows Control Panel.
 
-1.  Open the start menu and type control panel and press enter.
+1.  Open the Start Menu and type "pointer" (minus the quotes) and press Enter.
 
-2.  Move to the mouse option and click on it.
+Cursor & Pointer Dialog
+![Cursor & Pointer Dialog](https://github.com/alassist/lessons-magnification/blob/master/Using%20Windows%20Magnifier/images/mouse-pointer.png?raw=true)
 
-3.  Click on schemes and choose another scheme for the mouse, then click OK.
+2.  Use the slider to change the size of your pointer.
+3.  Select one of the options below that to change your pointer color. You have 4 options:
+  - White: White pointer
+  - Black: Black pointer
+  - Inverse: This will make your mouse the inverse color from whatever is under it.
+  - Color Wheel: This will give you the option of picking from standard colors or a custom color. 
 
 ### Cursor Enhancements
 
-Cursor enhancements in Magnifier are extremely limited and vary depending upon which version of Microsoft Windows you are using. In Windows 10, you can change the thickness of the cursor by using the following steps.
-
-1.  Press the Windows key to bring up the Start Menu.
-
-2.  Type "Cursor" and a gear with the phrase "Change how thick the cursor is" should appear at the top of the list.
-
-![Windows Start Menu](https://lh3.googleusercontent.com/tuugKKrWj03USNtlwR6jBJjV5MbN-Ir1QzvVLplve43gF3Q3tsBzccxeUfc2gRzjIzp0dS9u38vbZicDOncPpEIlH2UZAZ-eL0zRmEyoZ-4Vy20bm3tZ3iloEqpFHD9jVKLNdaO6 "Cursor Thickness.png")
-
-1.  Press Enter or click on that option.
-
-2.  The Ease of Access center should open.
-
-![Ease of access center - other settings](https://lh6.googleusercontent.com/rQmMQBqzINXkoizj0WUhAaj4U3UEIa-wMzpNHS71lmyQ7sOEYhKnU_ngClVBUouaMl9Q8BeHnQtuRRzFU4KXiIfhDGk5K8OY1gCYEXfWU-AAamELLAb7ZW4Yfdj_i7O8WMd47Wa6 "EOA Cursor.png")
-
-1.  The next to the last option on this page is a slider that you can use to control the thickness of your cursor.
+Cursor enhancements in Windows are extremely limited and vary depending upon which version of Microsoft Windows you are using. In Windows 10, you can change the thickness of the cursor by using the cursor thickness slider. Note that this is the editing cursor and not the one that moves with your mouse.
