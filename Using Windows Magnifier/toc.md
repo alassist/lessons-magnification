@@ -1,3 +1,3 @@
-- [Lesson 1](Lesson%2001%20-%20Introduction.html)
-- [lesson 2](Lesson%2002%20-%20The%20Basics.html)
-- [Lesson 3](Lesson%2003%20-%20Enhancements.html)
+- [Lesson 1](https://alassist.github.io/lessons-magnification/Using%20Windows%20Magnifier/Unit%2001/Lesson%2001%20-%20Introduction.html)
+- [lesson 2](https://alassist.github.io/lessons-magnification/Using%20Windows%20Magnifier/Unit%2001/Lesson%2002%20-%20The%20Basics.html)
+- [Lesson 3](https://alassist.github.io/lessons-magnification/Using%20Windows%20Magnifier/Unit%2001/Lesson%2003%20-%20Enhancements.html)
