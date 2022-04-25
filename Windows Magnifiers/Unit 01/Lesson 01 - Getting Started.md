@@ -42,7 +42,7 @@ Press the Windows key plus the escape key at the same time. This drops the magni
 
 ### Launching ZoomText
 
-Press the hotkey of Control + Alt **+ Shift** Z, or bring up the Start Menu by pressing the Windows key and type zoomtext and press enter.
+**Press the hotkey of Control + Alt **+ Shift** Z, or b**ring up the Start Menu by pressing the Windows key and type zoomtext and press enter.
 
 ### Exiting ZoomText
 
