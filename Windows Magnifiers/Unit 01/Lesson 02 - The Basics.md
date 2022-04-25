@@ -5,7 +5,8 @@ Each program can easily increase and decrease the magnification either through t
 #### Windows Magnifier
 - Increase Magnification - Windows key + Numpad Plus  
 - Decrease Magnification - Windows key + Numpad Minus   
-- You can also use the Zoom In and Zoom Out buttons to change zoom levels.
+- You can also use the Zoom In and Zoom Out buttons to change zoom levels.  
+![Windows Magnifier User Interface](https://moodle.alassist.us/pluginfile.php/5685/mod_resource/content/1/winmag%20zoom%20button.png)
 
 #### ZoomText
 - Increase Magnification - Caps Lock + Up Arrow  
