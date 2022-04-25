@@ -6,7 +6,6 @@ Each program can easily increase and decrease the magnification either through t
 |:------------------|:-------------------------:|:--------------------------:|:--------------------:|
 | Windows Magnifier | Windows key + Numpad Plus | Windows key + Numpad Minus |       1x - 16x       |
 |      ZoomText     |    Caps Lock + Up Arrow   |   Caps Lock + Down Arrow   |       1x - 42x       |
-|       MAGic       |  Caps Lock + Numpad Plus  |  Caps Lock + Numpad Minus  |       1x - 60x       |
 
 ### Enable & Disable Magnification
 
@@ -16,7 +15,6 @@ You can also enable and disable magnification through the user interface or with
 |:----------|:-------------------------:|:---------------------:|
 | Magnifier | Windows key + numpad Plus |  Windows key + Escape |
 |  ZoomText |     Caps Lock + Enter     |   Caps Lock + Enter   |
-|   MAGic   |     Caps Lock + Delete    |   Caps Lock + Delete  |
 
 ### Changing Zoom Window Type
 
@@ -37,16 +35,3 @@ In Magnifier the following hotkeys change the type of window that is magnified.
 #### ZoomText
 
 In ZoomText to change the type of window displayed press **Caps Lock** + Z. This is a toggle command and allows you to go through all of the window type options and choose the one you want.
-
-#### MAGic
-
-To change the window type in MAGic press the **Caps Lock** + Numpad Slash. This is a toggle control and will cycle through all of the choices and back to the one you started with.
-
-### Moving the screen while magnified
-
-
-|  PROGRAM  |         MOVING COMMAND         | 
-|:----------|:------------------------------:|
-| Magnifier |Control + Alt + Arrow Keys      | 
-|  ZoomText |Caps Lock + Control + Arrow Keys| 
-|   MAGic   |     Caps Lock + Arrow Keys     | 
