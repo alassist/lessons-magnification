@@ -10,7 +10,7 @@ Magnifier - This is a free program that comes free with Windows. Although it doe
 
 ![The Windows Magnifier User Interface](https://docs.microsoft.com/en-us/windows-insider/at-home/images/18932-4.png "Windows Magnifier User Interface")
 
-ZoomText - a screen magnifier that is sold by Ai Squared. This particular Screen Magnifier can be purchased with a built-in screen reader to enable audio as well as visual feedback.
+ZoomText - a screen magnifier from Freedom Scientific. This particular Screen Magnifier can be purchased with a built-in screen reader to enable audio as well as visual feedback.
 
 ![The ZoomText User Interface](https://support.freedomscientific.com/Content/images/training/ztUI.png "ZoomText User Interface")
 
