@@ -14,10 +14,6 @@ ZoomText - a screen magnifier that is sold by Ai Squared. This particular Screen
 
 ![The ZoomText User Interface](https://www.aisquared.com/images/Magnifier_Toolbar.png "ZoomText User Interface")
 
-MAGic - This screen magnifier is produced by Freedom Scientific and also comes with a built-in screen reader.
-
-![The Magic User Interface](https://lh3.googleusercontent.com/6zRS4V2-yhP9ZqkHLWvbt-Uifmj9X_jiUXLR5a7wvitS4VxNjl16LIrcEZ_KvaxJAnR5IJ09yARIqEtecyXjS4jAyVOqNIMWooHHndJngNYQWLXLlFBAkrmi6c5MJV6elgBykMIT "Magic User Interface")
-
 ### Definitions
 
 **Screen Magnifier** - A screen magnifier magnifies whatever is displayed on the screen to make it easier to see.
@@ -53,13 +49,3 @@ Press the hotkey of Control + Alt **+ Shift** Z, or bring up the Start Menu by p
 1.  Press **control + caps lock + U** to bring the ZoomText Toolbar up.
 
 2.  Press the hotkey Alt + F4 to exit.
-
-### Launching MAGic
-
-Press the hotkey of Control + Alt + M. You can also press the Windows key to bring up the start menu and type magic and press enter.
-
-### Exiting MAGic
-
-1.  Press the hotkey of Windows key + U to open the MAGic user interface.
-
-2.  Press the hotkey of Alt + F4 to exit.
