@@ -12,7 +12,7 @@ Magnifier - This is a free program that comes free with Windows. Although it doe
 
 ZoomText - a screen magnifier that is sold by Ai Squared. This particular Screen Magnifier can be purchased with a built-in screen reader to enable audio as well as visual feedback.
 
-![The ZoomText User Interface](https://www.aisquared.com/images/Magnifier_Toolbar.png "ZoomText User Interface")
+![The ZoomText User Interface](https://support.freedomscientific.com/Content/images/training/ztUI.png "ZoomText User Interface")
 
 ### Definitions
 
