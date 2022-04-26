@@ -1,17 +1,17 @@
 ZoomText keyboard shortcuts
 -----
 
-| Press this key                     | To do this                |
-| ---------------------------------- |:------------------------- |
-| Increase magnification             | alt + plus                |
-| Decrease magnification             | alt + minus               |
-| Increase or decrease magnification | ctrl + mouse scroll wheel |
-| Change zoom type                   | ctrl + shift+z            |
-| Enable AppReader                   | Caps Lock + Alt + a       |
-| Enable DocReader                   | Caps Lock + ctrl + B      |
-| Enable Mouse Echo                  | Caps Lock + m             |
-| Enable Color Enhancement           | Caps Lock + C             |
-| Enable Pointer                     | Caps Lock + ctrl + p      |
-| Enable Focus                       | ctrl + shift+o            |
-| Change Dual Monitor Settings       | windows key + shift+z     |
-| Enable Web Finder                  | Caps Lock + Ctrl + F      |
+| Press this key                     | To do this                   |
+| ---------------------------------- |:---------------------------- |
+| Increase magnification             | Alt + Plus                   |
+| Decrease magnification             | Alt + Minus                  |
+| Increase or decrease magnification | Control + mouse scroll wheel |
+| Change zoom type                   | Control + Shift + Z          |
+| Enable AppReader                   | Caps Lock + Alt + A          |
+| Enable DocReader                   | Caps Lock + Control + B      |
+| Enable Mouse Echo                  | Caps Lock + M                |
+| Enable Color Enhancement           | Caps Lock + C                |
+| Enable Pointer                     | Caps Lock + Control + P      |
+| Enable Focus                       | Control + Shift + O          |
+| Change Dual Monitor Settings       | Windows key + Shift+Z        |
+| Enable Web Finder                  | Caps Lock + Control + F      |
